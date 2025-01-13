@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amrokahla
-- 👀 I’m interested in machine/deep learning
-- 🌱 I’m currently studying machine learning
+- 👀 I am a Machine Learning Engineer with a robust background in artificial intelligence, computer vision, and data processing. My professional journey has been driven by a passion for leveraging advanced machine learning techniques to address complex problems and deliver impactful solutions.
+
 
 <!---
 Amrokahla/Amrokahla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
